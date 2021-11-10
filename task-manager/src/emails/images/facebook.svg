@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="16px" viewBox="0 0 8 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic/facebook</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 0.411765 0 0 0 0 0.380392 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="Desktop_x1440_p1---Canceled" transform="translate(-765.000000, -1083.000000)">
+            <g id="Group-56-Copy-3" transform="translate(514.000000, 89.000000)">
+                <g id="Group-29" transform="translate(145.000000, 991.000000)">
+                    <g id="ic/facebook" transform="translate(99.000000, 0.000000)" filter="url(#filter-1)">
+                        <g filter="url(#filter-2)" id="Fb">
+                            <g transform="translate(7.333333, 3.666667)">
+                                <path d="M4.55059449,7.33247465 L6.57515118,7.33247465 L6.84344895,4.80507118 L4.55059449,4.80507118 L4.55403404,3.54008169 C4.55403404,2.88089601 4.61666581,2.52768952 5.56344627,2.52768952 L6.82911648,2.52768952 L6.82911648,0 L4.8042732,0 C2.37211078,0 1.51605266,1.22606251 1.51605266,3.28791398 L1.51605266,4.80535777 L0,4.80535777 L0,7.3327607 L1.51605266,7.3327607 L1.51605266,14.6666667 L4.55059449,14.6666667 L4.55059449,7.33247465 Z" id="Combined-Shape-path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

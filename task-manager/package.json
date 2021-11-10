@@ -1,0 +1,24 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/env-cmd ./config/dev.env nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.6",
+    "express": "^4.17.1",
+    "mjml": "^4.10.2",
+    "mongoose": "^5.13.6",
+    "nodemailer": "^6.6.3",
+    "sib-api-v3-sdk": "^8.2.1"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0"
+  }
+}

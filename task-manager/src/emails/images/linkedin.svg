@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic/linkedin</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 0.411765 0 0 0 0 0.380392 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="Desktop_x1440_p1---Canceled" transform="translate(-728.000000, -1083.000000)">
+            <g id="Group-56-Copy-3" transform="translate(514.000000, 89.000000)">
+                <g id="Group-29" transform="translate(145.000000, 991.000000)">
+                    <g id="ic/linkedin" transform="translate(66.000000, 0.000000)" filter="url(#filter-1)">
+                        <g filter="url(#filter-2)" id="In">
+                            <g transform="translate(3.464514, 3.730797)">
+                                <path d="M0.194723107,4.77440492 L0.194723107,14.6787091 L3.49111881,14.6787091 L3.49111881,4.77440492 L0.194723107,4.77440492 Z" id="Combined-Shape-path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <path d="M1.86491137,0 C0.73723545,0 0,0.739655758 0,1.71076622 C0,2.66176163 0.715445435,3.42271561 1.82212146,3.42271561 L1.84318732,3.42271561 C2.99258729,3.42271561 3.70842786,2.66176163 3.70842786,1.71076622 C3.68703294,0.739655758 2.99258729,0 1.86491137,0 Z" id="Combined-Shape-path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <path d="M11.9702029,4.51920344 C10.2200334,4.51920344 9.43645315,5.48051946 8.99894367,6.15489999 L8.99894367,4.75203861 L5.70215238,4.75203861 L5.70215238,14.6563412 L8.99894367,14.6563412 L8.99894367,9.12496168 C8.99894367,8.82895468 9.02033853,8.53367086 9.10749808,8.32173957 C9.34573864,7.73038296 9.88818196,7.11812253 10.798881,7.11812253 C11.9921904,7.11812253 12.469198,8.02632413 12.469198,9.35727099 L12.469198,14.6560788 L15.765463,14.6560788 L15.7655948,8.97725395 C15.7655948,5.93508049 14.1393836,4.51920344 11.9702029,4.51920344 Z" id="Combined-Shape-path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
